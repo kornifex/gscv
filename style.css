@@ -17,3 +17,11 @@
     background: #2C2C2C;
     color: #FFFFFF;
 }
+
+.text-widget input {
+    width: 100%;
+}
+
+.tabbed-widget .vertical-widget {
+    padding: 15px;
+} 
